@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AG7uuOyW)
+USO IA:
+En la presente actividad, hubo uso de las sugerencias de código integradas en Visual Studio Code. Esta sugirió nombres de variables/clases, redactó automáticamente líneas de código que se repetían, etc. Sin embargo, la idea matriz de cada test es propia y el grueso del código es de mi autoría.
